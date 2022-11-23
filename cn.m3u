@@ -74,7 +74,7 @@ http://39.134.66.66/PLTV/88888888/224/3221225665/index.m3u8
 http://39.134.65.162/PLTV/88888888/224/3221225579/index.m3u8
 #EXTINF:-1 tvg-id="AnHuiWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视 (1080p)
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226196/index.m3u8
-#EXTINF:-1 tvg-id="AnHuiJingJiShengHuo.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/ahgg.jpg" group-title="卫视",安徽经济生活 (1080p)
+#EXTINF:-1 tvg-id="AnHuiJingShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/ahgg.jpg" group-title="卫视",安徽经济生活 (1080p)
 http://120.210.193.151:8006/120000001002/XMTah_jjhd/index.m3u8
 #EXTINF:-1 tvg-id="ShanDongWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225697/index.m3u8
@@ -84,7 +84,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225730/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225701/index.m3u8
 #EXTINF:-1 tvg-id="GuangXiWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视 (576p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8
-#EXTINF:-1 tvg-id="YanBianWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" group-title="卫视",延边卫视 (720p)
+#EXTINF:-1 tvg-id="YanbianSatelliteTV.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" group-title="卫视",延边卫视 (720p)
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001307/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="XinJiangWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视 (576p)
 http://39.134.66.66/PLTV/88888888/224/3221225582/index.m3u8
@@ -132,19 +132,15 @@ http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 tvg-id="FengHuangXiangGang.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港台",凤凰香港 (1080p)
 http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
-#EXTINF:-1 tvg-id="FengHuangZhongWen.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/OJw1GGy.png" group-title="港台",港台电视31 (1080p)
+#EXTINF:-1 tvg-id="RTHKTV31.hk" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/OJw1GGy.png" group-title="港台",港台电视31 (1080p)
 https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
-#EXTINF:-1 tvg-id="AoShiWeiXing.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/AOSHI.png" group-title="港台",澳视卫星 (720p)
+#EXTINF:-1 tvg-id="TDMMacauSatellite.mo" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/UF03VC3.png" group-title="港台",澳门-MACAU (720p)
 http://61.244.22.5/ch3/ch3.live/playlist.m3u8
-#EXTINF:-1 tvg-id="AoShiWeiXing.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/AOSHI.png" group-title="港台",澳视卫星 (720p)
-http://61.244.22.4/ch3/ch3.live/playelist.m3u8
-#EXTINF:-1 tvg-id="AoShiAoMen.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="港台",澳视澳门 (720p)
+#EXTINF:-1 tvg-id="TDMOuMun.mo" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/wbxKdQ4.png" group-title="港台",澳视澳门 (720p)
 http://61.244.22.4/ch1/ch1.live/playelist.m3u8
-#EXTINF:-1 tvg-id="AoShiPuWen.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="港台",澳视葡文 (720p)
-http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8
-#EXTINF:-1 tvg-id="AoShiPuWen.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="港台",澳视葡文 (720p)
+#EXTINF:-1 tvg-id="AoShiPuWen.cn" tvg-country="CN" tvg-language="Português" tvg-logo="https://i.imgur.com/0eGv67Q.png" group-title="港台",澳视葡文 (720p)
 http://61.244.22.4/ch2/ch2.live/playelist.m3u8
-#EXTINF:-1 tvg-id="AoMenTiYu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="港台",澳门体育 (720p)
-http://61.244.22.4/ch4/sport_ch4.live/playelist.m3u8
-#EXTINF:-1 tvg-id="XinTangRenYaTaiTai.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://www.ntdtv.com/assets/themes/ntd/images/logo/logo_ntd.png" group-title="港台",新唐人亚太台 (480p)
+#EXTINF:-1 tvg-id="TVBS.tw" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://i.imgur.com/4RvCHWP.png" group-title="港台",TVBS (720p)
+http://50.7.220.74:8278/tvbs/playlist.m3u8?ct=19226&tid=MDED5111960351119603&tsum=49931e2d3885c468d56ffae2c2db9e6e
+#EXTINF:-1 tvg-id="NTDTVAsia-Pacific.tw" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.ntdtv.com/assets/themes/ntd/images/logo/logo_ntd.png" group-title="港台",新唐人亚太台 (480p)
 http://174.127.67.246/live330/playlist.m3u8
