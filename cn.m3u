@@ -120,7 +120,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225735/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225692/index.m3u8
 #EXTINF:-1 tvg-id="QingHaiWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视 (1080p)
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225794/index.m3u8
-#EXTINF:-1 tvg-id="QingHaiAnDuoWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="卫视",青海安多卫视 (576p)
+#EXTINF:-1 tvg-id="QingHaiAnDuoWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/anduo.jpg" group-title="卫视",青海安多卫视 (576p)
 http://39.134.66.66/PLTV/88888888/224/3221225531/index.m3u8
 #EXTINF:-1 tvg-id="HeiLongJiangWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225690/index.m3u8
