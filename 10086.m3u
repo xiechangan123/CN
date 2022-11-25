@@ -37,7 +37,7 @@ http://111.20.105.60:6060/yinhe/2/ch00000090990000001295/index.m3u8?virtualDomai
 #EXTINF:-1 tvg-id="CCTV4K.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K超高清 (2160p)
 http://www.56ku.ml/gudou.php?id=4005
 #EXTINF:-1 tvg-id="MiGu4K.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="4K",咪咕4K (2160p)
-http://117.136.156.3:80/000000001000/3000000010000005180/index.m3u8
+http://39.135.42.203:80/000000001000/3000000010000005180/index.m3u8
 #EXTINF:-1 tvg-id="MiGu4K2.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="4K",咪咕4K2 (2160p)
 http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8
 #EXTINF:-1 tvg-id="DouYin4K.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="4K",抖音4K (2160p)
