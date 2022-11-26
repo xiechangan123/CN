@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
 
+
 安徽移动易视腾IPTV
+从这个接口获取programUrl播放试试looktvepg.aha.bcs.ottcn.com:8080/ysten-lvoms-epg/epg/getNewPrograms.shtml?catgId=371&actionType=OpenNew&deviceGroupId=4744&districtCode=341200&templateId=0556&random=0.00161108304746449
 
 CCTV-1        http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-1/1.m3u8
 CCTV-2        http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-2/1.m3u8
