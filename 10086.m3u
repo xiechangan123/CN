@@ -138,8 +138,6 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-id="FengHuangZiXun.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港台",凤凰资讯 (1080p)
 http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 tvg-id="FengHuangXiangGang.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港台",凤凰香港 (1080p)
-http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:-1 tvg-id="RTHKTV31.hk" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/OJw1GGy.png" group-title="港台",港台电视31 (1080p)
 https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 #EXTINF:-1 tvg-id="TDMMacauSatellite.mo" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/UF03VC3.png" group-title="港台",澳门-MACAU (720p)
