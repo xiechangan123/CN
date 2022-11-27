@@ -49,7 +49,7 @@ http://159.75.85.63:8280/cctv4k.php
 #EXTINF:-1 tvg-id="MiGu4K.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="4K",咪咕4K (2160p)
 http://39.135.42.203:80/000000001000/3000000010000005180/index.m3u8
 #EXTINF:-1 tvg-id="MiGu4K.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="4K",咪咕4K (2160p)
-http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8
+http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8
 #EXTINF:-1 tvg-id="ChunXiang4K.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://epg.112114.xyz/logo/%E7%BA%AF%E4%BA%AB4K.png" group-title="4K",纯享4K (2160p)
 http://111.20.105.192:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="SiTVHuanXiaoJuChang4K.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="4K",SiTV欢笑剧场4K (2160p)
@@ -138,6 +138,8 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-id="FengHuangZiXun.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港台",凤凰资讯 (1080p)
 http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 tvg-id="FeiCui.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://epg.112114.xyz/logo/%E7%BF%A1%E7%BF%A0.png" group-title="港台",翡翠台
+http://159.75.85.63:5828/gudou.php?id=1350_4500
 #EXTINF:-1 tvg-id="RTHKTV31.hk" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/OJw1GGy.png" group-title="港台",港台电视31 (1080p)
 https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 #EXTINF:-1 tvg-id="TDMMacauSatellite.mo" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/UF03VC3.png" group-title="港台",澳门-MACAU (720p)
