@@ -41,7 +41,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 #EXTINF:-1 tvg-id="CCTV15.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15音乐 (1080p)
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001020/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="CCTV16.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16奥林匹克 (2160p)
-http://111.29.9.37:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
+http://live.cooltv.top/tv/aishang.php?id=cctv164k
 #EXTINF:-1 tvg-id="CCTV17.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农业农村 (1080p)
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="CCTV4K.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K超高清 (2160p)
@@ -138,10 +138,6 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-id="FengHuangZiXun.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港台",凤凰资讯 (1080p)
 http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 tvg-id="FeiCui.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://epg.112114.xyz/logo/%E7%BF%A1%E7%BF%A0.png" group-title="港台",翡翠台 (1080p)
-http://14.123.236.121:30003/bysid/1
-#EXTINF:-1 tvg-id="FeiCui.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://epg.112114.xyz/logo/%E7%BF%A1%E7%BF%A0.png" group-title="港台",翡翠台 (1080p)
-http://159.75.85.63:5828/gudou.php?id=1350_4500
 #EXTINF:-1 tvg-id="RTHKTV31.hk" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/OJw1GGy.png" group-title="港台",港台电视31 (1080p)
 https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 #EXTINF:-1 tvg-id="TDMMacauSatellite.mo" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/UF03VC3.png" group-title="港台",澳门-MACAU (720p)
