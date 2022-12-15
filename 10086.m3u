@@ -101,15 +101,15 @@ http://39.134.66.66/PLTV/88888888/224/3221225527/index.m3u8
 #EXTINF:-1 tvg-id="ShanDongWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视 (1080p)
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001341/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="ShanXiWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视 (720p)
-http://liveflash.sxrtv.com/live/sxwshd.m3u8
+http://player.521fanli.cn/1691/0/tide/tidem3u8.php?id=shanxihd
 #EXTINF:-1 tvg-id="ShanXiWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视 (1080p)
 http://121.51.249.19/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
 #EXTINF:-1 tvg-id="ShenZhenWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视 (1080p)
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001342/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="TianJinWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视 (1080p)
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001343/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="XinJiangWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视 (576p)
-http://39.134.66.66/PLTV/88888888/224/3221225582/index.m3u8
+#EXTINF:-1 tvg-id="XinJiangWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视 (1080p)
+http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=58347f72aece2c25c685b8dc4da74652&txTime=95A66658
 #EXTINF:-1 tvg-id="BingTuanWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",新疆兵团卫视 (576p)
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
 #EXTINF:-1 tvg-id="XiCangWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视 (576p)
@@ -117,7 +117,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8
 #EXTINF:-1 tvg-id="YanbianSatelliteTV.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" group-title="卫视",延边卫视 (720p)
 http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 #EXTINF:-1 tvg-id="YunNanWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视 (1080p)
-https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN#
+http://121.51.249.19/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226063/index.m3u8
 #EXTINF:-1 tvg-id="ZheJiangWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视 (1080p)
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/zjwshd8m/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="港台",Al Jazeera English (1080p)
