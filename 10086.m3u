@@ -3,43 +3,43 @@ http://111.20.105.60:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomai
 #EXTINF:-1 tvg-id="CCTV2.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2财经 (1080p)
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="CCTV3.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3综艺 (1080p)
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000062
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv3hd/1.m3u8
 #EXTINF:-1 tvg-id="CCTV4.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4中文国际 (1080p)
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="CCTV5Plus.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5+体育赛事 (1080p)
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="CCTV5.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5体育 (1080p)
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000064
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv5hd/1.m3u8
 #EXTINF:-1 tvg-id="CCTV6.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6电影 (1080p)
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000065
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv6hd8m/index.m3u8
 #EXTINF:-1 tvg-id="CCTV7.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7国防军事 (1080p)
-http://111.20.105.60:6060/yinhe/2/ch00000090990000001291/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv7hd8m/index.m3u8
 #EXTINF:-1 tvg-id="CCTV8.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8电视剧 (1080p)
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000066
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv8hd8m/index.m3u8
 #EXTINF:-1 tvg-id="CCTV9.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9纪录 (1080p)
-http://111.20.105.60:6060/yinhe/2/ch00000090990000001294/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv-9hd/1.m3u8
 #EXTINF:-1 tvg-id="CCTV10.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV-10科教 (1080p)
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000129
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/4M-cctv10hd/1.m3u8
 #EXTINF:-1 tvg-id="CCTV11.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV-11戏曲 (1080p)
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001327/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="CCTV12.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12社会与法制 (1080p)
-http://111.20.105.60:6060/yinhe/2/ch00000090990000001289/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv12hd8m/index.m3u8
 #EXTINF:-1 tvg-id="CCTV13.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13新闻 (1080p)
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001328/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="CCTV14.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14少儿 (1080p)
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctvsehd8m/1.m3u8
 #EXTINF:-1 tvg-id="CCTV15.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15音乐 (1080p)
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001020/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="CCTV16.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16奥林匹克 (2160p)
-http://live.cooltv.top/tv/aishang.php?id=cctv164k
+http://111.11.123.31:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
 #EXTINF:-1 tvg-id="CCTV17.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农业农村 (1080p)
-http://111.20.105.60:6060/yinhe/2/ch00000090990000001295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://120.210.193.151:8006/120000001002/XMTcctv-17hd/1.m3u8
 #EXTINF:-1 tvg-id="CCTV4K.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K超高清 (2160p)
 http://159.75.85.63:8280/cctv4k.php
 #EXTINF:-1 tvg-id="MiGu4K.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="4K",咪咕4K (2160p)
 http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8
 #EXTINF:-1 tvg-id="ChunXiang4K.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://epg.112114.xyz/logo/%E7%BA%AF%E4%BA%AB4K.png" group-title="4K",纯享4K (2160p)
-http://111.20.105.192:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
 #EXTINF:-1 tvg-id="SiTVHuanXiaoJuChang4K.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="4K",SiTV欢笑剧场4K (2160p)
 http://111.20.105.60:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="AiShang4K.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="4K",爱上4K (2160p)
@@ -63,7 +63,7 @@ http://111.20.105.60:6060/yinhe/2/ch00000090990000001337/index.m3u8?virtualDomai
 #EXTINF:-1 tvg-id="GanSuWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视 (1080p)
 http://120.210.193.151:8006/120000001002/XMTgswshd/1.m3u8
 #EXTINF:-1 tvg-id="GuangXiWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视 (1080p)
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000116
+http://hls.yun.gehua.net.cn:8088/live/GuangXi_2000.m3u8
 #EXTINF:-1 tvg-id="GuiZhouWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视 (1080p)
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/gzwshd8m/index.m3u8
 #EXTINF:-1 tvg-id="HeiLongJiangWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视 (1080p)
@@ -117,7 +117,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8
 #EXTINF:-1 tvg-id="YanbianSatelliteTV.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" group-title="卫视",延边卫视 (720p)
 http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 #EXTINF:-1 tvg-id="YunNanWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视 (1080p)
-http://121.51.249.19/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226063/index.m3u8
+https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
 #EXTINF:-1 tvg-id="ZheJiangWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视 (1080p)
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/zjwshd8m/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="港台",Al Jazeera English (1080p)
