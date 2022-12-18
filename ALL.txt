@@ -144,6 +144,7 @@ CCTV6FHD,http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ah
 CCTV6高清,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-4000k-1080P-cctv6/.m3u8
 CCTV6高清,http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/cctv6hd/1.m3u8
 CCTV7高清,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-7/.m3u8
+CCTV7FHD,http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/cctv7hd8m/index.m3u8
 CCTV8FHD,http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/cctv8hd8m/index.m3u8
 CCTV8高清,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-4000k-1080P-cctv8/.m3u8
 CCTV8高清,http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/cctv8hd/1.m3u8
