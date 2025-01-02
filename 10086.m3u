@@ -85,17 +85,17 @@ http://120.210.193.151:8006/120000001002/XMTjiangxiwshd/index.m3u8
 #EXTINF:-1 tvg-id="LiaoNingWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视 (1080p)
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/lnwshd8m/index.m3u8
 #EXTINF:-1 tvg-id="NeiMengGuWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视",内蒙古卫视 (576p)
-http://39.134.65.162/PLTV/88888888/224/3221225577/index.m3u8
+http://39.134.136.161:6610/000000001000/1000000002000014080/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000014080
 #EXTINF:-1 tvg-id="NingXiaWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视",宁夏卫视 (576p)
-http://39.134.65.162/PLTV/88888888/224/3221225579/index.m3u8
+http://39.134.136.161:6610/000000001000/1000000002000031451/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000031451
 #EXTINF:-1 tvg-id="QingHaiWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视 (1080p)
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/qinghaistv/1.m3u8
 #EXTINF:-1 tvg-id="QingHaiAnDuoWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/anduo.jpg" group-title="卫视",青海安多卫视 (576p)
-http://39.134.66.66/PLTV/88888888/224/3221225531/index.m3u8
+http://39.134.136.161:6610/000000001000/1000000005000266001/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000266001
 #EXTINF:-1 tvg-id="SiChuanWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视 (1080p)
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/scwshd/index.m3u8
 #EXTINF:-1 tvg-id="SiChuanKangBaWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/kangba.png" group-title="卫视",四川康巴卫视 (576p)
-http://39.134.66.66/PLTV/88888888/224/3221225527/index.m3u8
+http://39.134.136.161:6610/000000001000/1000000005000266002/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000266002
 #EXTINF:-1 tvg-id="ShanDongWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视 (1080p)
 http://120.210.193.151:8006/120000001002/XMTsxwshd/1.m3u8
 #EXTINF:-1 tvg-id="ShanXiWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视 (720p)
