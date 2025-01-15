@@ -121,7 +121,7 @@ http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/zjwshd8m/i
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="港台",Al Jazeera English (1080p)
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="FengHuangZhongWen.hk" tvg-country="HK" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港台",凤凰中文 (1080p)
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+http://ali.hlspull.yximgs.com/live/diyp_fh2.flv
 #EXTINF:-1 tvg-id="FengHuangZiXun.hk" tvg-country="Hk" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港台",凤凰资讯 (1080p)
 https://ali.hlspull.yximgs.com/live/diyp_fh1.flv
 #EXTINF:-1 tvg-id="FeiCui.hk" tvg-country="HK" tvg-language="Chinese" tvg-logo="https://epg.112114.xyz/logo/%E7%BF%A1%E7%BF%A0.png" group-title="港台",翡翠台 (1080p)
