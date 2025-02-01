@@ -111,7 +111,7 @@ http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/xinjiangs
 #EXTINF:-1 tvg-id="BingTuanWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",新疆兵团卫视 (1080p)
 https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 #EXTINF:-1 tvg-id="XiCangWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视 (576p)
-http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/xizangstv/1.m3u8
+http://live-test.vtibet.cn/live/h701F9MpxzPDyE.m3u8
 #EXTINF:-1 tvg-id="YanbianSatelliteTV.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" group-title="卫视",延边卫视 (576p)
 http://39.135.133.159/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 #EXTINF:-1 tvg-id="YunNanWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视 (1080p)
@@ -121,15 +121,15 @@ http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/zjwshd8m/i
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="港台",Al Jazeera English (1080p)
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="FengHuangZhongWen.hk" tvg-country="HK" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港台",凤凰中文 (1080p)
-http://ali.hlspull.yximgs.com/live/diyp_fh2.flv
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 tvg-id="FengHuangZiXun.hk" tvg-country="Hk" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港台",凤凰资讯 (1080p)
-https://ali.hlspull.yximgs.com/live/diyp_fh1.flv
-#EXTINF:-1 tvg-id="FeiCui.hk" tvg-country="HK" tvg-language="Chinese" tvg-logo="https://epg.112114.xyz/logo/%E7%BF%A1%E7%BF%A0.png" group-title="港台",翡翠台 (1080p)
-https://cdn.hklive.tv/xxxx/81/index.m3u8
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 tvg-id="FeiCui.hk" tvg-country="HK" tvg-language="Chinese" tvg-logo="https://epg.112114.xyz/logo/%E7%BF%A1%E7%BF%A0.png" group-title="港台",翡翠台 (720p)
+http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
 #EXTINF:-1 tvg-id="RTHKTV31.hk" tvg-country="HK" tvg-language="Chinese" tvg-logo="https://i.imgur.com/OJw1GGy.png" group-title="港台",港台电视31 (1080p)
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
 #EXTINF:-1 tvg-id="RTHKTV31.hk" tvg-country="HK" tvg-language="Chinese" tvg-logo="" group-title="港台",港台电视32 (1080p)
-https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 #EXTINF:-1 tvg-id="TDMMacauSatellite.mo" tvg-country="MO" tvg-language="Chinese" tvg-logo="https://i.imgur.com/UF03VC3.png" group-title="港台",澳门-MACAU (720p)
 http://61.244.22.5/ch3/ch3.live/playlist.m3u8
 #EXTINF:-1 tvg-id="TDMOuMun.mo" tvg-country="MO" tvg-language="Chinese" tvg-logo="https://i.imgur.com/wbxKdQ4.png" group-title="港台",澳视澳门 (720p)
