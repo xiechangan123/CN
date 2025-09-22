@@ -125,22 +125,24 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 tvg-id="FengHuangZiXun.hk" tvg-country="Hk" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港台",凤凰资讯 (1080p)
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-id="FeiCui.hk" tvg-country="HK" tvg-language="Chinese" tvg-logo="https://epg.112114.xyz/logo/%E7%BF%A1%E7%BF%A0.png" group-title="港台",翡翠台 (720p)
-http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
-#EXTINF:-1 tvg-id="RTHKTV31.hk" tvg-country="HK" tvg-language="Chinese" tvg-logo="https://i.imgur.com/OJw1GGy.png" group-title="港台",港台电视31 (1080p)
+http://php.jdshipin.com/smt.php?id=jade_twn
+#EXTINF:-1 tvg-id="RTHKTV31.hk" tvg-country="HK" tvg-language="Chinese" tvg-logo="https://imgur.com/OJw1GGy.png" group-title="港台",港台电视31 (1080p)
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
-#EXTINF:-1 tvg-id="RTHKTV31.hk" tvg-country="HK" tvg-language="Chinese" tvg-logo="" group-title="港台",港台电视32 (1080p)
+#EXTINF:-1 tvg-id="RTHKTV31.hk" tvg-country="HK" tvg-language="Chinese" tvg-logo="https://epg.112114.xyz/logo/RTHK32.png" group-title="港台",港台电视32 (1080p)
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
-#EXTINF:-1 tvg-id="TDMMacauSatellite.mo" tvg-country="MO" tvg-language="Chinese" tvg-logo="https://i.imgur.com/UF03VC3.png" group-title="港台",澳门-MACAU (720p)
+#EXTINF:-1 tvg-id="RTHKTV31.hk" tvg-country="HK" tvg-language="Chinese" tvg-logo="https://epg.112114.xyz/logo/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png" group-title="港台",TVB无线新闻 (1080p)
+http://php.jdshipin.com/smt.php?id=inews_twn
+#EXTINF:-1 tvg-id="TDMMacauSatellite.mo" tvg-country="MO" tvg-language="Chinese" tvg-logo="https://imgur.com/UF03VC3.png" group-title="港台",澳门-MACAU (720p)
 http://61.244.22.5/ch3/ch3.live/playlist.m3u8
-#EXTINF:-1 tvg-id="TDMOuMun.mo" tvg-country="MO" tvg-language="Chinese" tvg-logo="https://i.imgur.com/wbxKdQ4.png" group-title="港台",澳视澳门 (720p)
-http://61.244.22.4/ch1/ch1.live/playelist.m3u8
-#EXTINF:-1 tvg-id="AoShiPuWen.mo" tvg-country="MO" tvg-language="Português" tvg-logo="https://i.imgur.com/0eGv67Q.png" group-title="港台",澳视葡文 (720p)
+#EXTINF:-1 tvg-id="TDMOuMun.mo" tvg-country="MO" tvg-language="Chinese" tvg-logo="https://imgur.com/wbxKdQ4.png" group-title="港台",澳视澳门 (1080p)
+http://php.jdshipin.com/TVOD/iptv.php?id=asam
+#EXTINF:-1 tvg-id="AoShiPuWen.mo" tvg-country="MO" tvg-language="Português" tvg-logo="https://imgur.com/0eGv67Q.png" group-title="港台",澳视葡文 (720p)
 http://61.244.22.4/ch2/ch2.live/playelist.m3u8
-#EXTINF:-1 tvg-id="TVBS.tw" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e2/FTV_News_Logo.png" group-title="港台",民视新闻 (1080p)
+#EXTINF:-1 tvg-id="TVBS.tw" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://zh.wikipedia.org/wiki/%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0#/media/File:%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0.svg" group-title="港台",民视新闻 (1080p)
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 #EXTINF:-1 tvg-id="TVBS.tw" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/3f/TTV_News_Channel_with_HD_2016.png" group-title="港台",台视新闻 (1080p)
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1 tvg-id="TVBS.tw" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://i.imgur.com/4RvCHWP.png" group-title="港台",TVBS (1080p)
+#EXTINF:-1 tvg-id="TVBS.tw" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://imgur.com/4RvCHWP.png" group-title="港台",TVBS (1080p)
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1 tvg-id="NTDTVAsia-Pacific.tw" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.ntdtv.com/assets/themes/ntd/images/logo/logo_ntd.png" group-title="港台",新唐人亚太台 (720p)
 http://tv.redrainl.site:9500/live.m3u8?c=52
