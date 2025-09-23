@@ -30,7 +30,7 @@ http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv13xwhd
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctvsehd8m/1.m3u8
 #EXTINF:-1 tvg-id="CCTV15.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15音乐 (1080p)
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctvyysd4mc/index.m3u8
-#EXTINF:-1 tvg-id="CCTV16.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16奥林匹克 (1080p)
+#EXTINF:-1 tvg-id="CCTV16.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV-16奥林匹克 (1080p)
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv16hd8m/index.m3u8
 #EXTINF:-1 tvg-id="CCTV17.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农业农村 (1080p)
 http://120.210.193.151:8006/120000001002/XMTcctv-17hd/1.m3u8
@@ -144,5 +144,5 @@ http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 #EXTINF:-1 tvg-id="TVBS.tw" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://imgur.com/4RvCHWP.png" group-title="港台",TVBS (1080p)
 http://152.32.229.52:5050/4gtv-4gtv073/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="NTDTVAsia-Pacific.tw" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.ntdtv.com/assets/themes/ntd/images/logo/logo_ntd.png" group-title="港台",新唐人亚太台 (720p)
+#EXTINF:-1 tvg-id="NTDTVAsia-Pacific.tw" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.ntdtv.com/assets/themes/ntd/images/logo/logo_ntd.png" group-title="港台",新唐人亚太台 (1080p)
 http://152.32.229.52:5050/4gtv-live050/index.m3u8?proxy=true
